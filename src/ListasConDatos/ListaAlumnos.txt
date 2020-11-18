@@ -1,0 +1,59 @@
+10319084L,Carlos,Alcaide,Vega,25/06/2000,CMI2,8.49
+74711901N,Juan,Amador,Rubio,24/06/1997,CMI2,8.46
+92512413L,Carlos,Araujo,Uncala,05/08/2000,CMI2,8.42
+57160086A,Angel David,Cañizares,Ardila,25/10/1999,CMI2,8.42
+51855131K,Manuel,Caro,Delgado,25/02/1998,CMI2,8.44
+45373609Z,Alejandro,Correa,Vargas,25/01/2001,CMI2,8.44
+35963468R,Alejandro,Cruz,Páez,25/04/2002,CMI2,8.46
+14524291K,Jhoel Darío,Cueva,Shiguango,15/09/1999,CMI2,8.44
+94934159A,Alejandro,Domínguez,Araujo,01/01/1998,CMI2,5.64
+82080849J,Brayan,Gil,Muñoz,01/01/1998,CMI2,5.64
+73890602C,Juan Manuel,Jiménez,Álvarez,01/01/1998,CMI2,5.63
+65623415E,Luis Manuel,López,Cuadrado,01/02/1998,CMI2,5.62
+60744772R,Fco. Javier,Mangas,Trabajo,01/03/1998,CMI2,5.61
+83386593R,Mariano,Moreno,Cabrera,11/02/1998,CMI2,5.6
+28454489Q,Manuel,Muñoz,Cobo,08/10/1998,CMI2,5.59
+15149653J,Pablo,Párraga,Alcázar,23/12/1998,CMI2,5.58
+55091853E,Alejandro,Pérez,Rubio,01/11/1998,CMI2,5.57
+48750950N,M. Ángel,Plaza,Paredes,01/09/1998,CMI2,5.56
+77505126W,Rafael,Quecuty,Ponce,21/11/1998,CMI2,8.55
+53307644S,David,Ramos,Gutiérrez,16/04/1998,CMI2,7.54
+95137391F,Jesús,Rodríguez,López,01/01/1998,CMI2,5.53
+73888835R,Andrés,Rosa,López,01/01/1998,CMI2,7.52
+37501924X,Mario,Sánchez,Méndez,01/01/1998,CMI2,8.51
+81938399W,J. Antonio,Tinajero,Martín,01/01/1998,CMI2,9.62
+58736820H,Francisco,Aguilar,Rodríguez,01/01/1995,CSI1,5.6
+65475720X,Álvaro,Basallote,Rodríguez,01/01/1995,CSI1,6.61
+47799025B,Fco. Javier,Basallote,Rodríguez,01/01/1995,CSI1,7.62 
+17003919L,Cristian,Cabrera,González,01/01/1995,CSI1,8.63
+36955818Q,Raúl,Cerero,Alcedo,01/01/1995,CSI1,9.64
+65967392B,Alejandro,Charris,Aranda,01/01/1995,CSI1,9.65
+63168414H,Alberto,De la Torre,Marín,01/01/1995,CSI1,8.66
+94726645H,Alejandro,Díaz,Mora,01/01/1995,CSI1,7.67
+55680705M,Jesús,Díaz,Muñoz,01/01/1995,CSI1,6.68
+32877079M,José Manuel,Domínguez,Fernández,01/01/1995,CSI1,5.69
+19710304V,Carlos,Fernández,Píriz,01/01/1995,CSI1,6.68
+31761000R,Carlos,Funalleras,Mateos,01/01/1995,CSI1,7.67
+80305312F,Sergio,García,Martín,01/01/1995,CSI1,8.66
+49711519D,A. Esteban,González,Tumasonis,01/01/1995,CSI1,9.65
+48994840X,Carlos,Guijarro,Villegas,01/01/1995,CSI1,9.64
+37531733B,Tomás,Gutiérrez,Puerto,01/01/1995,CSI1,8.63
+31924596K,Borja,Lucero,Fernández,01/01/1995,CSI1,7.62
+57484933K,J. Joaquín,Magaña,López,01/01/1995,CSI1,6.61
+46144858G,Elio,Matamoros,Sánchez,01/01/1995,CSI1,5.69
+62710658P,M. Enrique,Naval,Bolívar,01/01/1995,CSI1,5.68
+90307799R,M. Manuel,Olmo,Reyes,01/01/1995,CSI1,6.67
+35296644Q,Manuel,Orozco,Herrero,01/01/1995,CSI1,7.66
+41733093F,Marcos,Ortega,Cereceto,01/01/1995,CSI1,8.65
+89262925V,Rafael,Ortiz,Diaque,01/01/1995,CSI1,9.64
+38760637W,Juan José,Rodríguez,Avilés,01/01/1995,CSI1,9.63
+70045394K,Enrique,Romero,Pérez,01/01/1995,CSI1,9.62
+70893209X,Alberto,Salazar,Oliva,01/01/1995,CSI1,8.61
+53766243V,J. Manuel,Sierra,Romero,01/01/1995,CSI1,8.19
+99789154C,Antonio,Toro,Martín,01/01/1995,CSI1,7.18
+56265473K,Raúl,Vázquez,Ojeda,01/01/1995,CSI1,6.17
+21011739C,Pablo,Cavero,Pérez,01/01/1995,CSI1,5.16
+45995692Q,Ángel Ariel,Cevallos,Reyes,01/01/1995,CSI1,6.15
+24590933T,Ángel,Hernández,De Marcos,01/01/1995,CSI1,7.14
+66907887J,José Miguel,Moreno,Castro,01/01/1995,CSI2,8.13
+38820312S,Rafael,Villegas,Vázquez,01/01/1995,CSI1,8.12

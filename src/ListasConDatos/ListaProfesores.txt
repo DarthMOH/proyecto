@@ -1,0 +1,8 @@
+71363765D,Manuel,Rodriguez,Cordones,25/06/1957,CMI2
+35963468R,José María,García,Polavieja,25/07/1970,CMI1
+88549882C,Alberto,Arjona,Plaza,25/01/1958,CSI2
+34037540R,José María,Carazo,Albofaina,25/07/1977,CSI1
+88549882C,Ricardo,Pérez,Rubio,25/10/1973,CMI2
+35963468R,Alejandro,Ruiz,Cueto,30/06/1970,CMI2
+71363765D,Manuel,Almeida,Romero,29/06/1971,CMI2
+24295835S,Victoriano,Cuadrado,Salcedo,25/07/1980,CMI2
