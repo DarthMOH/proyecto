@@ -28,6 +28,8 @@ public class Menu {
 		int expo = -1;
 		boolean fallo = false;
 
+		String hola ="0";
+
 		String black="\033[30m";
 		String red="\033[31m";
 		String green="\033[32m";
